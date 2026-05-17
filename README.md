@@ -1,4 +1,4 @@
-# Gabriel Matias Landing Page
+# Gabriel Lage Landing Page
 
 Landing page pessoal/profissional para Gabriel Lage Pires Matias, com foco em monitoração, observabilidade, NOC, dashboards, automação e inteligência operacional.
 
