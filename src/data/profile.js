@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Gabriel Matias",
+  name: "Gabriel Lage",
   fullName: "Gabriel Lage Pires Matias",
   title: "Analista Pleno em Monitoração e Observabilidade",
   company: "Energisa",
@@ -8,7 +8,7 @@ export const profile = {
   summary:
     "Atuo com NOC, Zabbix, dashboards, alertas, automação e inteligência operacional para reduzir ruído, acelerar diagnóstico e melhorar decisões em TI.",
   about:
-    "Sou Gabriel Matias, profissional de TI com atuação em Monitoração/NOC e Observabilidade. Minha rotina envolve transformar métricas, alertas e dados técnicos em visões claras para operação, diagnóstico e tomada de decisão.",
+    "Sou Gabriel Lage, profissional de TI com atuação em Monitoração/NOC e Observabilidade. Minha rotina envolve transformar métricas, alertas e dados técnicos em visões claras para operação, diagnóstico e tomada de decisão.",
   differential:
     "Meu foco não é apenas monitorar. É ajudar a operação a entender o que está acontecendo, por que importa e qual ação faz sentido.",
   links: {
